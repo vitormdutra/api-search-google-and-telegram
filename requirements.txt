@@ -1,0 +1,4 @@
+urllib3==1.26.15
+icrawler==0.6.7
+BeautifulSoup4
+lxml
